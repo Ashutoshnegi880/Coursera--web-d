@@ -11,20 +11,25 @@
 <body>
   <h1> Games</h1>
   <div class="container">
-  <div class="box col-md-6 col-sm-12 col-lg-4">
+  <div class=" col-md-6 col-sm-12 col-lg-4">
+      <div class="box">
     <h2 id="gta">Gta</h2>
     <p>Grand Theft Auto is a series of action-adventure games created by David Jones and Mike Dailly. Later titles were developed under the oversight of brothers Dan and Sam Houser, Leslie Benzies and Aaron Garbut.</p>
   </div>
+      </div>
  
-  <div class="box col-md-6 col-sm-12 col-lg-4">
+  <div class=" col-md-6 col-sm-12 col-lg-4">
+      <div class="box">
     <h2 id="mafia">Mafia</h2>
     <p>Mafia, also known as Werewolf, is a social deduction game, created by Dimitry Davidoff in 1986. The game models a conflict between two groups: an informed minority, and an uninformed majority. At the start of the game, each player is secretly assigned a role affiliated with one of these teams</p>
   </div>
+  </div>
   
-  
-  <div class="box col-md-12 col-sm-12 col-lg-4">
+  <div class=" col-md-12 col-sm-12 col-lg-4">
+    <div class="box">
     <h2 id="nfs">NFS</h2>
     <p>Need for Speed is a racing video game franchise published by Electronic Arts and currently developed by Criterion Games, the developers of Burnout. The series centers around illicit street racing and in general tasks players to complete various types of races while evading the local law enforcement in police pursuits.</p>
+        </div>
   </div>
   </div> 
 </body>
